@@ -7,8 +7,8 @@ to create a virtual environment, then run \
 **For CMD:** \
 `.\[PROJECT_NAME]\Scripts\Activate.ps1` \
 **For bash:** \
-`.\[PROJECT_NAME]\Scripts\activate.bat` \
+`.\[PROJECT_NAME]\Scripts\activate.bat`
 
-this will activate the virtual environment, where we can install the dependencies \
-## Dependencies: \
+this will activate the virtual environment, where we can install the dependencies
+## Dependencies:
 `pip3 install livekit-agents livekit-plugins-openai livekit-plugins-google livekit-plugins-silero python-dotenv`
